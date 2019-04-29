@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.demo-rest_service-doggos.test.iml" />
+    </modules>
+  </component>
+</project>
