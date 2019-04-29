@@ -13,6 +13,9 @@ plugins {
 }
 
 apply plugin: 'io.spring.dependency-management'
+apply plugin: 'application'
+
+mainClassName = 'com.example.Application'
 
 group = 'com.example'
 version = '0.0.1-SNAPSHOT'
